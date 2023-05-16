@@ -935,6 +935,7 @@ footer .social-links i:hover {
     position: relative;
     padding: 2rem;
     margin: 0;
+    background-color: #494949;
   }
   nav .responsive-toggle {
     display: block !important;
@@ -946,13 +947,15 @@ footer .social-links i:hover {
   }
   nav .logo img {
     height: 3rem;
+    background-color: #494949;
   }
   nav .links {
     position: absolute;
     top: -40rem;
     left: 0;
     margin-top: 10rem;
-    background-color: white;
+    /* background-color: white; */
+    background-color: #494949;
     width: 100%;
     -webkit-transition: 0.3s ease-in-out;
     transition: 0.3s ease-in-out;
